@@ -18,12 +18,12 @@ You can follow me on the socials, below 👇.
 <br><br>
 
 <p align='center'>
-<a href="https://twitter.com/hanysameh11">
+<a href="https://twitter.com/amrelbehairy11">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/amr.elbehairy.10/" target="blank">
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
-<a href="mailto:hanysameh506@gmail.com">
+<a href="mailto:amrade1672002@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
  <a href="https://www.linkedin.com/in/hany-sameh-246538209">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
