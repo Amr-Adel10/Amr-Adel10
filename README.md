@@ -1,6 +1,8 @@
 ### Hi there 👋
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Flutter+Developer;Mobile+App+Develper&center=true&width=500&height=50"></a>
+<!-- </p>
 
-<!--
+
 **Amr-Adel10/Amr-Adel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
