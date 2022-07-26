@@ -25,7 +25,7 @@ You can follow me on the socials, below 👇.
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
 <a href="mailto:amrade1672002@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
- <a href="https://www.linkedin.com/in/hany-sameh-246538209">
+ <a href="https://www.linkedin.com/in/amr-adel-116070240/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="http://wa.me/+20 01212184875?text=Hello Hany Sameh">
