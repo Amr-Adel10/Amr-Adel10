@@ -29,7 +29,7 @@ You can follow me on the socials, below 👇.
  <a href="https://www.linkedin.com/in/amr-adel-116070240/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="http://wa.me/+20 01212184875?text=Hello Hany Sameh">
+<a href="http://wa.me/+20 01212184875?text=Hello Amr Adel">
   <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 	<a href="https://web.facebook.com/amradel.elbehery/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </a>&nbsp;&nbsp;
