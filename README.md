@@ -19,10 +19,10 @@ You can follow me on the socials, below 👇.
 <br><br>
 
 <p align='center'>
-<a href="https://twitter.com/amrelbehairy11">
+<a href="https://twitter.com/amroo_jr">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/amr.elbehairy.10/" target="blank">
+<a href="https://www.instagram.com/amroo_jr/" target="blank">
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="charlykeleb.dev"/></a> 
 <a href="mailto:amrade1672002@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
